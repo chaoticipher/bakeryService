@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "bakeryService",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731846266584,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ODIyMWUxOGNhY2JmMDkwZDVlMjM3MTNkYmI5Y2FlZWRkMmZhYzlkODA1YzNiMDAxYmY2YmFhM2QwNjBhMGRiNGY1NzJiNzM3MWRkYzA1NTU3NTlhZDAyZmYxNDFlMmExOWFkYThhYjA3MTk4MDc1NThmZDY0NDM3ZDNhM2I1ZDk=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
